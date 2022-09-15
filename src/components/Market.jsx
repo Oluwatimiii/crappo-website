@@ -22,7 +22,7 @@ const Market = () => {
         >
           <h1 className="text-center text-[#FFFFFF] font-bold max-w-[680px] lg:max-w-[790px] text-[30px] md:text-[40px]">
             Market sentiments, portfolio, and run the infrastructure of your
-            choice
+            choice.
           </h1>
         </div>
 
