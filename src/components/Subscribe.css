@@ -1,0 +1,6 @@
+.subscribe {
+    background-image: url("../assets/images/newsletter-box.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+}
